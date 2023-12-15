@@ -19,9 +19,3 @@ func strStr(haystack string, needle string) int {
 	}
 	return -1
 }
-
-//  l
-// [o d e s s a]
-//          r
-
-// [e s s a]
